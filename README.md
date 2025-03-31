@@ -95,3 +95,8 @@ Usage
 
 More detailed API Documentation:
 The backend API documentation is available at http://localhost:8000/docs when the server is running.
+![image](https://github.com/user-attachments/assets/eb967b73-0d14-4a0e-a9f2-3e9bbbf0d4b3)
+![image](https://github.com/user-attachments/assets/2867b682-61bf-4e16-933a-938b260acff1)
+![image](https://github.com/user-attachments/assets/b63b89d3-f40e-4035-af39-d374f06233d7)
+
+
